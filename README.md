@@ -1,3 +1,8 @@
+# A blood pressure tracker
+
+This is an example app built with Google's Antigravity IDE that tracks blood pressure
+data samples.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
